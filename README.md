@@ -31,3 +31,4 @@ Kiếm được việc làm bằng IT - tập trung vào SRE/DevOps/Infra/Cloud/
 - Create a private email with Zoho Mail - mail.tribui.plus. Example: tribui@mail.tribui.plus
 - Focus SRE (automated, observability & monitoring, incident management, SLA/SLO/SLI, auto scale, error budget, postmortem)
 - Focus Cloud GCP
+- Create GCP account via Private Email, verify the account via phone number
