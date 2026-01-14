@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- Prepare the name tribuiplus
+- Create email Outlook with tribuiplus
+- Create Github tribuiplus
