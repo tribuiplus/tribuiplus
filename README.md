@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 Mục tiêu là để review mình đã làm gì
+Mục tiêu chính về IT là gì?
+Kiếm được việc làm bằng IT - tập trung vào SRE/DevOps/Infra/Cloud/System/Automation/AI
 
 -->
 
@@ -26,3 +28,4 @@ Mục tiêu là để review mình đã làm gì
 - Create Cloudflare dashboard, add domain
 - Point domain from Spaceship to Cloudflare
 - Add A record on Cloudflare with DNS server of Github. Had: www.tribui.plus
+- Create a private email - mail.tribui.plus. Example: tribui@mail.tribui.plus
