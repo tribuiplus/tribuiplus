@@ -13,6 +13,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+Mục tiêu là để review mình đã làm gì
+
 -->
 
 - Prepare the name tribuiplus
