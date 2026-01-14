@@ -21,3 +21,5 @@ Mục tiêu là để review mình đã làm gì
 - Prepare the name tribuiplus
 - Create email Outlook with tribuiplus
 - Create Github tribuiplus
+- Create this repo https://github.com/tribuiplus/tribuiplus
+
