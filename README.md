@@ -27,5 +27,5 @@ Kiếm được việc làm bằng IT - tập trung vào SRE/DevOps/Infra/Cloud/
 - Set budget 150k to buy domain tribui.plus
 - Create Cloudflare dashboard, add domain
 - Point domain from Spaceship to Cloudflare
-- Add A record on Cloudflare with DNS server of Github. Had: www.tribui.plus
-- Create a private email - mail.tribui.plus. Example: tribui@mail.tribui.plus
+- Add A record on Cloudflare with DNS server of Github. Had: https://tribui.plus
+- Create a private email with Zoho Mail - mail.tribui.plus. Example: tribui@mail.tribui.plus
