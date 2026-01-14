@@ -30,4 +30,4 @@ Kiếm được việc làm bằng IT - tập trung vào SRE/DevOps/Infra/Cloud/
 - Add A record on Cloudflare with DNS server of Github. Had: https://tribui.plus
 - Create a private email with Zoho Mail - mail.tribui.plus. Example: tribui@mail.tribui.plus
 - Focus SRE (automated, observability & monitoring, incident management, SLA/SLO/SLI, auto scale, error budget, postmortem)
-- 
+- Focus Cloud GCP
