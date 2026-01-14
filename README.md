@@ -22,5 +22,7 @@ Mục tiêu là để review mình đã làm gì
 - Create email Outlook with tribuiplus
 - Create Github tribuiplus
 - Create this repo https://github.com/tribuiplus/tribuiplus
-- Set budget 150 to buy domain tribui.plus
-- 
+- Set budget 150k to buy domain tribui.plus
+- Create Cloudflare dashboard, add domain
+- Point domain from Spaceship to Cloudflare
+- Add A record on Cloudflare with DNS server of Github. Had: www.tribui.plus
