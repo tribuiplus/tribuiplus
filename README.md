@@ -35,3 +35,4 @@ Kiếm được việc làm bằng IT - tập trung vào SRE/DevOps/Infra/Cloud/
 - Focus Cloud GCP
 - Create GCP account via Private Email, verify the account via phone number
 - Register chatbot AI like ChatGPT, Claude, Grok
+- Access canhme, anonyviet, sharengay
