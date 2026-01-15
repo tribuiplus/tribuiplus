@@ -74,3 +74,12 @@ Postmortem & Optimization
         - SRE postmortem tools: Rootly, Blameless, Jeli
         - All-in-one: Datadog, New Relic or Signoz
         - Others: communication (Slack, Teams), documentation (Confluence, Notion), project management (Jira, Asana, Linear), incident response PagerDuty.
+
+## Release
+
+15/01/2026
+- https://tribui.plus
+- @mail.tribui.plus
+- https://my.cloudron.tribui.plus
+- https://gua.cloudron.tribui.plus
+- https://grafana.cloudron.tribui.plus
