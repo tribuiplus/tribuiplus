@@ -24,7 +24,6 @@ Reduce toil (việc lặp lại, thủ công, không tạo giá trị lâu dài)
 SLI. Latency (p95,p99), Error rate, Availability (uptime), SLO 99.9% request < 300ms trong 30 ngày
 SLA Nếu uptime < 99.5% → hoàn tiền. Error budget SLO 99.9% → error budget = 0.1 Nếu xài hết error budget → ❌ stop release, tập trung fix reliability
 Operations & Reliability, HA / Fault-tolerant
-Observability, metrics - logs - traces - alerting
 Incident Management, On-call rotation, Incident response, Root Cause Analysis (RCA), Postmortem
 Automation, CI/CD, Auto-scaling, Self-healing system, Infrastruture as Code (Terraform, Helm, Ansible,...)
 
@@ -60,3 +59,10 @@ Postmortem & Optimization
     - Setup app VPN Wire Guard to vpn to Singapore region
 - DOING Setup Gitlab, Jenkins or AWX 
 - DOING Setup Prometheus/Grafana
+
+- Topic Observability & monitoring (metrics, logs, traces and alerting) - GCP, Ops Agent, Open Telemetry
+    - Create dashboard on GCP/ on Grafana
+    - Create alerting, create alert policy
+    - Uptime check (health check for website)
+    - Create log-based metrics
+    - Setup log router and log storage
