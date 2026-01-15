@@ -18,6 +18,23 @@ Mục tiêu là để review mình đã làm gì
 Mục tiêu chính về IT là gì?
 Kiếm được việc làm bằng IT - tập trung vào SRE/DevOps/Infra/Cloud/System/Automation/AI
 
+SRE
+Độ tin cậy (Reliability)
+Reduce toil (việc lặp lại, thủ công, không tạo giá trị lâu dài).
+SLI. Latency (p95,p99), Error rate, Availability (uptime), SLO 99.9% request < 300ms trong 30 ngày
+SLA Nếu uptime < 99.5% → hoàn tiền. Error budget SLO 99.9% → error budget = 0.1 Nếu xài hết error budget → ❌ stop release, tập trung fix reliability
+Operations & Reliability, HA / Fault-tolerant
+Observability, metrics - logs - traces - alerting
+Incident Management, On-call rotation, Incident response, Root Cause Analysis (RCA), Postmortem
+Automation, CI/CD, Auto-scaling, Self-healing system, Infrastruture as Code (Terraform, Helm, Ansible,...)
+
+SRE Daily
+Daily Monitoring
+Incident Response
+SLO & Error Budget
+Automation & Engineering Work
+Postmortem & Optimization
+
 -->
 
 - Prepare the name tribuiplus
