@@ -55,3 +55,4 @@ Postmortem & Optimization
 - Access canhme, anonyviet, sharengay
 - Create the public profile on LinkedIn and TopCV
 - Join the Upwork
+- Setup Cloudron on GCP VM
