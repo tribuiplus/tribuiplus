@@ -58,3 +58,5 @@ Postmortem & Optimization
 - Setup Cloudron on GCP VM
     - Setup app Guacamole to access the server
     - Setup app VPN Wire Guard to vpn to Singapore region
+- DOING Setup Gitlab, Jenkins or AWX 
+- DOING Setup Prometheus/Grafana
