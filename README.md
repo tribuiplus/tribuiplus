@@ -66,3 +66,9 @@ Postmortem & Optimization
     - Uptime check (health check for website)
     - Create log-based metrics
     - Setup log router and log storage
+    - Tooling used for this topic
+        - Metrics: Prometheus/Grafana, VictoriaMetrics
+        - Logs: Fluent bit, Elasticsearch/Kibana/Logstash, Loki
+        - Traces: OpenTelemetry, Jaeger
+        - Notification chanel: Alert manager, PagerDuty/Slack/Opsgenie
+        - All-in-one: Datadog, New Relic or Signoz
