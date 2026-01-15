@@ -56,3 +56,5 @@ Postmortem & Optimization
 - Create the public profile on LinkedIn and TopCV
 - Join the Upwork
 - Setup Cloudron on GCP VM
+    - Setup app Guacamole to access the server
+    - Setup app VPN Wire Guard to vpn to Singapore region
