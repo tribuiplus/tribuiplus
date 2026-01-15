@@ -83,3 +83,4 @@ Postmortem & Optimization
 - https://my.cloudron.tribui.plus
 - https://gua.cloudron.tribui.plus
 - https://grafana.cloudron.tribui.plus
+- https://vpn.cloudron.tribui.plus
