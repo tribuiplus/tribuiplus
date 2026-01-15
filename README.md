@@ -23,7 +23,8 @@ Kiếm được việc làm bằng IT - tập trung vào SRE/DevOps/Infra/Cloud/
 - Prepare the name tribuiplus
 - Create email Outlook with tribuiplus
 - Create Github tribuiplus
-- Create this repo https://github.com/tribuiplus/tribuiplus
+    - Create this repo https://github.com/tribuiplus/tribuiplus
+    - Add domain tribui.plus to Github on Cloudflare
 - Set budget 150k to buy domain tribui.plus
 - Create Cloudflare dashboard, add domain
 - Point domain from Spaceship to Cloudflare
