@@ -71,4 +71,6 @@ Postmortem & Optimization
         - Logs: Fluent bit, Elasticsearch/Kibana/Logstash, Loki
         - Traces: OpenTelemetry, Jaeger
         - Notification chanel: Alert manager, PagerDuty/Slack/Opsgenie
+        - SRE postmortem tools: Rootly, Blameless, Jeli
         - All-in-one: Datadog, New Relic or Signoz
+        - Others: communication (Slack, Teams), documentation (Confluence, Notion), project management (Jira, Asana, Linear), incident response PagerDuty.
