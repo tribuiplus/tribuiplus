@@ -75,6 +75,8 @@ Postmortem & Optimization
         - All-in-one: Datadog, New Relic or Signoz
         - Others: communication (Slack, Teams), documentation (Confluence, Notion), project management (Jira, Asana, Linear), incident response PagerDuty.
 
+- Topic GCP cloud computing: VM, GKE, Observability & monitoring, DNS
+
 ## Release
 
 15/01/2026
@@ -84,3 +86,4 @@ Postmortem & Optimization
 - https://gua.cloudron.tribui.plus
 - https://grafana.cloudron.tribui.plus
 - https://vpn.cloudron.tribui.plus
+- gcp.tribui.plus
