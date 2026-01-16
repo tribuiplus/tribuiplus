@@ -59,6 +59,7 @@ Postmortem & Optimization
     - Setup app VPN Wire Guard to vpn to Singapore region
 - DOING Setup Gitlab, Jenkins or AWX 
 - DOING Setup Prometheus/Grafana
+- Research proxy (forward proxy, reverse proxy), HTTP/HTTPS/SOCK5
 
 - Topic Observability & monitoring (metrics, logs, traces and alerting) - GCP, Ops Agent, Open Telemetry
     - Create dashboard on GCP/ on Grafana
