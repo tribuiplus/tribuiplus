@@ -61,6 +61,7 @@ Postmortem & Optimization
 - DOING Setup Prometheus/Grafana
 - Research proxy (forward proxy, reverse proxy), HTTP/HTTPS/SOCK5
     - SOCK5: ssh -D 8123 -C -q user@127.0.0.1 -p 2222
+    - Sử dụng extension (Direct, System proxy, SwitchyOmega Proxy)
     
 
 - Topic Observability & monitoring (metrics, logs, traces and alerting) - GCP, Ops Agent, Open Telemetry
