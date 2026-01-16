@@ -1,0 +1,7 @@
+ssh -f -N -D 127.0.0.1:8123 user@127.0.0.1 -p 2222 \
+  -o ExitOnForwardFailure=yes \
+  -o ServerAliveInterval=30 \
+  -o ServerAliveCountMax=3 \
+  -o TCPKeepAlive=no \
+  -o Compression=no \
+  -q

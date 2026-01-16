@@ -60,6 +60,8 @@ Postmortem & Optimization
 - DOING Setup Gitlab, Jenkins or AWX 
 - DOING Setup Prometheus/Grafana
 - Research proxy (forward proxy, reverse proxy), HTTP/HTTPS/SOCK5
+    - SOCK5: ssh -D 8123 -C -q user@127.0.0.1 -p 2222 hoặc
+    
 
 - Topic Observability & monitoring (metrics, logs, traces and alerting) - GCP, Ops Agent, Open Telemetry
     - Create dashboard on GCP/ on Grafana
