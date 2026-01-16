@@ -64,6 +64,7 @@ Postmortem & Optimization
     - Sử dụng extension (Direct, System proxy, SwitchyOmega Proxy)
 - Learn from server world,
 - Create account Bitwarden on tribuiplus
+- Create account Slack to recive the notification
 
 - Topic Observability & monitoring (metrics, logs, traces and alerting) - GCP, Ops Agent, Open Telemetry
     - Create dashboard on GCP/ on Grafana
