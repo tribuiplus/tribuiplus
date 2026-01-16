@@ -62,7 +62,7 @@ Postmortem & Optimization
 - Research proxy (forward proxy, reverse proxy), HTTP/HTTPS/SOCK5
     - SOCK5: ssh -D 8123 -C -q user@127.0.0.1 -p 2222
     - Sử dụng extension (Direct, System proxy, SwitchyOmega Proxy)
-    
+- Learn from server world,
 
 - Topic Observability & monitoring (metrics, logs, traces and alerting) - GCP, Ops Agent, Open Telemetry
     - Create dashboard on GCP/ on Grafana
@@ -91,3 +91,7 @@ Postmortem & Optimization
 - https://grafana.cloudron.tribui.plus
 - https://vpn.cloudron.tribui.plus
 - gcp.tribui.plus
+
+16/01/2026
+- https://gitlab.cloudron.tribui.plus
+- http://awx.tribui.plus/#/home
