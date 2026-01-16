@@ -34,4 +34,7 @@ gcloud compute instances ops-agents policies create goog-ops-agent-v2-x86-templa
 curl -sSO https://dl.google.com/cloudagents/add-google-cloud-ops-agent-repo.sh
 sudo bash add-google-cloud-ops-agent-repo.sh --also-install
 
+
+1vCPU - 4GB RAM
+4vCPU - 8GB RAM
 ```
