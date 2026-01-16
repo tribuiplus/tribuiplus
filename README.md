@@ -63,6 +63,7 @@ Postmortem & Optimization
     - SOCK5: ssh -D 8123 -C -q user@127.0.0.1 -p 2222
     - Sử dụng extension (Direct, System proxy, SwitchyOmega Proxy)
 - Learn from server world,
+- Create account Bitwarden on tribuiplus
 
 - Topic Observability & monitoring (metrics, logs, traces and alerting) - GCP, Ops Agent, Open Telemetry
     - Create dashboard on GCP/ on Grafana
