@@ -66,6 +66,7 @@ Postmortem & Optimization
 - Create account Bitwarden on tribuiplus
 - Create account Slack to recive the notification
     - Add AWX app to Slack channel to recive the notification
+- Re-create AWX on the Lab with external database
 
 - Topic Observability & monitoring (metrics, logs, traces and alerting) - GCP, Ops Agent, Open Telemetry
     - Create dashboard on GCP/ on Grafana

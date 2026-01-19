@@ -4,6 +4,7 @@
 compute.googleapis.com
 container.googleapis.com
 networkmanagement.googleapis.com
+servicenetworking.googleapis.com
 
 gcloud compute instances create tribuiplus \
     --project=user-tribuiplus \
