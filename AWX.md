@@ -15,6 +15,36 @@ kubectl apply -f ansible-awx.yml
 kubectl logs -f deployments/awx-operator-controller-manager -c awx-manager
 kubectl get secret awx-app-admin-password -o jsonpath="{.data.password}" | base64 --decode; echo
 
+---
+apiVersion: awx.ansible.com/v1beta1
+kind: AWX
+metadata:
+  name: awx-app
+  annotations:
+    networking.gke.io/load-balancer-type: "External"
+spec:
+  service_type: LoadBalancer
+  postgres_data_volume_init: true
+  postgres_configuration_secret: external-postgres-secret
+
+---
+apiVersion: v1
+kind: Secret
+metadata:
+  name: external-postgres-secret
+  namespace: awx-nprd
+stringData:
+  host: "10.83.192.2"
+  port: "5432"
+  database: "awx"
+  username: "awx"
+  password: "awx"
+  sslmode: prefer
+  target_session_attrs: read-write
+  type: unmanaged
+type: Opaque
+
+
 Create Org/Teams/Users
 add Credentials > Projects > Templates (job/workflow)
 create Schedules
@@ -25,4 +55,7 @@ Channel + Token and Custom
 Slack > New app > Create app from manifest > OAuth & Permissions (Scope chat:write)
 Get Bot Token and add AWX app into Slack
 integrate slack on awx how to
+
+Destroy AWX
+kubectl delete namespace awx-app
 ```
