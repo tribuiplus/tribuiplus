@@ -67,6 +67,8 @@ Postmortem & Optimization
 - Create account Slack to recive the notification
     - Add AWX app to Slack channel to recive the notification
 - Re-create AWX on the Lab with external database
+- Create Teams, Notion account tribuiplus
+    - Add tribuiplus.notion.site
 
 - Topic Observability & monitoring (metrics, logs, traces and alerting) - GCP, Ops Agent, Open Telemetry
     - Create dashboard on GCP/ on Grafana
