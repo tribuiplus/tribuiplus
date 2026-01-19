@@ -49,6 +49,18 @@ Create Org/Teams/Users
 add Credentials > Projects > Templates (job/workflow)
 create Schedules
 
+---
+- name: Hello World Playbook
+  hosts: all
+  tasks:
+    - name: Print a message
+      ansible.builtin.debug:
+        msg: "Hi! AWX is working, Hello World!"
+    
+    - name: Hello
+      shell: echo test
+
+
 Noti for AWX
 Name + Org + Type Slack
 Channel + Token and Custom
