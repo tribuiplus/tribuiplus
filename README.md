@@ -69,6 +69,7 @@ Postmortem & Optimization
 - Re-create AWX on the Lab with external database
 - Create Teams, Notion account tribuiplus
     - Add tribuiplus.notion.site
+- Buy the sim 700k for 1 year to get the network
 
 - Topic Observability & monitoring (metrics, logs, traces and alerting) - GCP, Ops Agent, Open Telemetry
     - Create dashboard on GCP/ on Grafana
