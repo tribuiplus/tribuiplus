@@ -40,6 +40,26 @@ sudo bash add-google-cloud-ops-agent-repo.sh --also-install
 4vCPU - 8GB RAM
 ```
 
+```
+project=user-dbsqqysqgzle
+user=ethan.bui@mail.tribui.plus
+
+gcloud services enable storage-api.googleapis.com
+gcloud services enable compute.googleapis.com
+gcloud services enable cloudresourcemanager.googleapis.com
+gcloud services enable compute.googleapis.com container.googleapis.com
+gcloud services enable monitoring.googleapis.com
+gcloud services enable logging.googleapis.com
+
+gcloud projects add-iam-policy-binding $project \
+  --member="user:$user" \
+    --role="roles/editor"
+gcloud projects add-iam-policy-binding $project \
+  --member="user:$user" \
+    --role="roles/container.admin"
+
+```
+
 ## NOTE
 
 ```
