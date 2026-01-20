@@ -39,3 +39,13 @@ sudo bash add-google-cloud-ops-agent-repo.sh --also-install
 1vCPU - 4GB RAM
 4vCPU - 8GB RAM
 ```
+
+## NOTE
+
+```
+https://docs.cloud.google.com/compute/docs/instances/host-maintenance-overview?authuser=1#host-events
+
+Khá là xịn, thời gian maintenance của GCP cho VM bất kì thời gian nào.
+chú ý 3 event compute.instances.hostError , compute.instances.migrateOnHostMaintenance và compute.instances.terminateOnHostMaintenance
+
+```
