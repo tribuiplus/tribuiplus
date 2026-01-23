@@ -34,3 +34,8 @@ https://docs.rockylinux.org
 CLOUD MIGRATION
 Rehost - Replatform - Refactor/Re-architect
 Cutover, Blue/Green deployment, Zero downtime
+
+SCRIPT
+Manual - Scripting - Parameter
+Fail Fast
+when Bash, when Python
