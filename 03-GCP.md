@@ -41,8 +41,8 @@ sudo bash add-google-cloud-ops-agent-repo.sh --also-install
 ```
 
 ```
-project=user-tthqvtfwlkdu
-user=ethan.bui@tribv.cloud
+project=user-tribuiplus
+user=buivantri1012@gmail.com
 
 gcloud services enable storage-api.googleapis.com
 gcloud services enable compute.googleapis.com
