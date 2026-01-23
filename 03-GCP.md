@@ -41,8 +41,8 @@ sudo bash add-google-cloud-ops-agent-repo.sh --also-install
 ```
 
 ```
-project=user-dbsqqysqgzle
-user=ethan.bui@mail.tribui.plus
+project=user-tthqvtfwlkdu
+user=ethan.bui@tribv.cloud
 
 gcloud services enable storage-api.googleapis.com
 gcloud services enable compute.googleapis.com
@@ -58,6 +58,9 @@ gcloud projects add-iam-policy-binding $project \
   --member="user:$user" \
     --role="roles/container.admin"
 
+gcloud projects add-iam-policy-binding $project \
+  --member="user:$user" \
+    --role="roles/owner"
 ```
 
 ## NOTE
