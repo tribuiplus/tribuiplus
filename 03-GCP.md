@@ -71,4 +71,9 @@ https://docs.cloud.google.com/compute/docs/instances/host-maintenance-overview?a
 Khá là xịn, thời gian maintenance của GCP cho VM bất kì thời gian nào.
 chú ý 3 event compute.instances.hostError , compute.instances.migrateOnHostMaintenance và compute.instances.terminateOnHostMaintenance
 
+
+Query event khi sử dụng Spot Instance
+resource.type="gce_instance"
+protoPayload.methodName="compute.instances.preempted"
+
 ```
