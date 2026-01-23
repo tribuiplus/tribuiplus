@@ -70,6 +70,7 @@ Postmortem & Optimization
 - Create Teams, Notion account tribuiplus
     - Add tribuiplus.notion.site
 - Buy the sim 700k for 1 year to get the network
+- Create account for Docker hub
 
 - Topic Observability & monitoring (metrics, logs, traces and alerting) - GCP, Ops Agent, Open Telemetry
     - Create dashboard on GCP/ on Grafana
