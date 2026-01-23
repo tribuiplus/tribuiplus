@@ -30,3 +30,7 @@ DOMAIN
 OS LINUX
 https://ubuntu.com/server/docs/
 https://docs.rockylinux.org
+
+CLOUD MIGRATION
+Rehost - Replatform - Refactor/Re-architect
+Cutover, Blue/Green deployment, Zero downtime
